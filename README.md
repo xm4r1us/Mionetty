@@ -7,3 +7,7 @@ A Account Checker (Discord BOT )
 # What You Need In This Project
 <li>Know Python</li>
 <li>Replit/Glitch/Heroku/VDS Hosting</li>
+#Libraries
+<li> Requests</li>
+<li> Beatiful Soup </li>
+<li> Discord.py </li>
