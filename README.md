@@ -1,5 +1,5 @@
 # Mionetty
-A Account Checker (Discord BOT )
+An Account Checker (Discord BOT )
 # Installation
 ``python3 main.py``
 <li> Note : Install Library !! </li>
